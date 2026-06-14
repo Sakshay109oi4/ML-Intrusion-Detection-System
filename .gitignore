@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Data (large files - download separately)
+data/raw/*.txt
+data/processed/*.csv
+
+# Outputs (regenerated)
+outputs/figures/*.png
+outputs/metrics/*.json
+outputs/metrics/*.txt
+outputs/reports/*.txt
+
+# Models (regenerated)
+models/*.joblib
+models/*.json
+
+# OS
+.DS_Store
+Thumbs.db
