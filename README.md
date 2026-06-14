@@ -235,8 +235,4 @@ print(result["confidence"])   # e.g., 0.94
 
 ## Author
 
-Developed as an internship evaluation project demonstrating end-to-end ML pipeline design for cybersecurity applications.
-
-## License
-
-MIT License — free for academic and educational use.
+Sakshay
